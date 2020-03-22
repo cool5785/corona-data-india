@@ -6,7 +6,8 @@
       "properties": {
         "description": "Regional Medical Research Centre",
         "name": "Regional Medical Research Centre",
-        "contact": ""
+        "contact": "",
+        "address": ""
       },
       "geometry": {
         "type": "Point",
@@ -20,7 +21,9 @@
       "type": "Feature",
       "properties": {
         "description": "Sri Venkateswara Institute of Medical Sciences (SVIMS)",
-        "name": "Sri Venkateswara Institute of Medical Sciences (SVIMS)"
+        "name": "Sri Venkateswara Institute of Medical Sciences (SVIMS)",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -34,7 +37,9 @@
       "type": "Feature",
       "properties": {
         "description": "Rangaraya Medical College",
-        "name": "Rangaraya Medical College"
+        "name": "Rangaraya Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -48,7 +53,9 @@
       "type": "Feature",
       "properties": {
         "description": "Siddhartha Medical College (SMC)",
-        "name": "Siddhartha Medical College (SMC)"
+        "name": "Siddhartha Medical College (SMC)",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -62,7 +69,9 @@
       "type": "Feature",
       "properties": {
         "description": "Government Medical College",
-        "name": "Government Medical College"
+        "name": "Government Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +85,9 @@
       "type": "Feature",
       "properties": {
         "description": "Gauhati Medical College",
-        "name": "Gauhati Medical College"
+        "name": "Gauhati Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -90,7 +101,9 @@
       "type": "Feature",
       "properties": {
         "description": "RMRC (ICMR), Dibrugarh, Assam",
-        "name": "RMRC (ICMR), Dibrugarh, Assam"
+        "name": "RMRC (ICMR), Dibrugarh, Assam",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -104,7 +117,9 @@
       "type": "Feature",
       "properties": {
         "description": "Jorhat Medical College",
-        "name": "Jorhat Medical College"
+        "name": "Jorhat Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -118,7 +133,9 @@
       "type": "Feature",
       "properties": {
         "description": "Silchar Medical College",
-        "name": "Silchar Medical College"
+        "name": "Silchar Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -132,7 +149,9 @@
       "type": "Feature",
       "properties": {
         "description": "RMRIMS Agamkuan, Patna, Bihar",
-        "name": "RMRIMS Agamkuan, Patna, Bihar"
+        "name": "RMRIMS Agamkuan, Patna, Bihar",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -146,7 +165,9 @@
       "type": "Feature",
       "properties": {
         "description": "Post Graduate Institute of Medical Education & Research, Chandigarh",
-        "name": "Post Graduate Institute of Medical Education & Research, Chandigarh"
+        "name": "Post Graduate Institute of Medical Education & Research, Chandigarh",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -160,7 +181,9 @@
       "type": "Feature",
       "properties": {
         "description": "All India Institute of Medical Science Raipur, Chhatisgarh, INDIA",
-        "name": "All India Institute of Medical Science Raipur, Chhatisgarh, INDIA"
+        "name": "All India Institute of Medical Science Raipur, Chhatisgarh, INDIA",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -174,7 +197,9 @@
       "type": "Feature",
       "properties": {
         "description": "All India Institute Of Medical Sciences, New Delhi",
-        "name": "All India Institute Of Medical Sciences, New Delhi"
+        "name": "All India Institute Of Medical Sciences, New Delhi",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -188,7 +213,9 @@
       "type": "Feature",
       "properties": {
         "description": "Army Hospital Research And Referral",
-        "name": "Army Hospital Research And Referral"
+        "name": "Army Hospital Research And Referral",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -202,7 +229,9 @@
       "type": "Feature",
       "properties": {
         "description": "Lady Hardinge Medical College",
-        "name": "Lady Hardinge Medical College"
+        "name": "Lady Hardinge Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +245,9 @@
       "type": "Feature",
       "properties": {
         "description": "National Co-operative Development Corporation",
-        "name": "National Co-operative Development Corporation"
+        "name": "National Co-operative Development Corporation",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -230,7 +261,9 @@
       "type": "Feature",
       "properties": {
         "description": "B.J. Medical College and Civil hospital",
-        "name": "B.J. Medical College and Civil hospital"
+        "name": "B.J. Medical College and Civil hospital",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -244,7 +277,9 @@
       "type": "Feature",
       "properties": {
         "description": "Shri M P Shah Government Medical College",
-        "name": "Shri M P Shah Government Medical College"
+        "name": "Shri M P Shah Government Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -258,7 +293,9 @@
       "type": "Feature",
       "properties": {
         "description": "Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences",
-        "name": "Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences"
+        "name": "Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -272,7 +309,9 @@
       "type": "Feature",
       "properties": {
         "description": "Bhagat Phool Singh Government Medical College",
-        "name": "Bhagat Phool Singh Government Medical College"
+        "name": "Bhagat Phool Singh Government Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -286,7 +325,9 @@
       "type": "Feature",
       "properties": {
         "description": "Indira Gandhi Medical College & Hospital",
-        "name": "Indira Gandhi Medical College & Hospital"
+        "name": "Indira Gandhi Medical College & Hospital",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -300,7 +341,9 @@
       "type": "Feature",
       "properties": {
         "description": "Dr. Rajendra Prasad Government Medical College",
-        "name": "Dr. Rajendra Prasad Government Medical College"
+        "name": "Dr. Rajendra Prasad Government Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -314,7 +357,9 @@
       "type": "Feature",
       "properties": {
         "description": "Government Medical College and hospital",
-        "name": "Government Medical College and hospital"
+        "name": "Government Medical College and hospital",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -328,7 +373,9 @@
       "type": "Feature",
       "properties": {
         "description": "Military Command Hospital Udhampur",
-        "name": "Military Command Hospital Udhampur"
+        "name": "Military Command Hospital Udhampur",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -342,7 +389,9 @@
       "type": "Feature",
       "properties": {
         "description": "MGM Medical College & Hospital, Jamshedpur",
-        "name": "MGM Medical College & Hospital, Jamshedpur"
+        "name": "MGM Medical College & Hospital, Jamshedpur",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -356,7 +405,9 @@
       "type": "Feature",
       "properties": {
         "description": "National Institute Of Virology Bangalore Karnataka",
-        "name": "National Institute Of Virology Bangalore Karnataka"
+        "name": "National Institute Of Virology Bangalore Karnataka",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -370,7 +421,9 @@
       "type": "Feature",
       "properties": {
         "description": "Hassan Institute Of Medical Sciences",
-        "name": "Hassan Institute Of Medical Sciences"
+        "name": "Hassan Institute Of Medical Sciences",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -384,7 +437,9 @@
       "type": "Feature",
       "properties": {
         "description": "Mysore Medical College And Research Institute",
-        "name": "Mysore Medical College And Research Institute"
+        "name": "Mysore Medical College And Research Institute",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -398,7 +453,9 @@
       "type": "Feature",
       "properties": {
         "description": "SHIMOGA Institute of Medical Sciences (SIMS)",
-        "name": "SHIMOGA Institute of Medical Sciences (SIMS)"
+        "name": "SHIMOGA Institute of Medical Sciences (SIMS)",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -412,7 +469,9 @@
       "type": "Feature",
       "properties": {
         "description": "Command Hospital Air Force",
-        "name": "Command Hospital Air Force"
+        "name": "Command Hospital Air Force",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -426,7 +485,9 @@
       "type": "Feature",
       "properties": {
         "description": "BMCRI- Bangalore Medical College and Research Institute",
-        "name": "BMCRI- Bangalore Medical College and Research Institute"
+        "name": "BMCRI- Bangalore Medical College and Research Institute",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -440,7 +501,9 @@
       "type": "Feature",
       "properties": {
         "description": "National Institute of Virology,Kerala Unit",
-        "name": "National Institute of Virology,Kerala Unit"
+        "name": "National Institute of Virology,Kerala Unit",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -454,7 +517,9 @@
       "type": "Feature",
       "properties": {
         "description": "Government Medical College Thiruvananthapuram",
-        "name": "Government Medical College Thiruvananthapuram"
+        "name": "Government Medical College Thiruvananthapuram",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -468,7 +533,9 @@
       "type": "Feature",
       "properties": {
         "description": "Govt Medical College,Kozhikode",
-        "name": "Govt Medical College,Kozhikode"
+        "name": "Govt Medical College,Kozhikode",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -482,7 +549,9 @@
       "type": "Feature",
       "properties": {
         "description": "Government Medical College, Thrissur",
-        "name": "Government Medical College, Thrissur"
+        "name": "Government Medical College, Thrissur",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -496,7 +565,9 @@
       "type": "Feature",
       "properties": {
         "description": "Advanced Institute Of Medical Sciences",
-        "name": "Advanced Institute Of Medical Sciences"
+        "name": "Advanced Institute Of Medical Sciences",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -510,7 +581,9 @@
       "type": "Feature",
       "properties": {
         "description": "National Institute of Research In Tribal Health",
-        "name": "National Institute of Research In Tribal Health"
+        "name": "National Institute of Research In Tribal Health",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -525,7 +598,7 @@
       "properties": {
         "description": "Mahatma Gandhi Memorial Medical College",
         "name": "Mahatma Gandhi Memorial Medical College",
-        "contact": [+91-7312527383],
+        "contact": "+91-7312527292",
         "address": "A.B.Road, Indore, Madhya Pradesh 452001"
       },
       "geometry": {
@@ -541,7 +614,7 @@
       "properties": {
         "description": "King Edward Memorial [KEM] Hospital and Medical College",
         "name": "King Edward Memorial [KEM] Hospital and Medical College",
-        "contact": [+91-22-2410-7000],
+        "contact": "+91-22-2410-7000",
         "address": ""
       },
       "geometry": {
@@ -556,7 +629,9 @@
       "type": "Feature",
       "properties": {
         "description": "Indira Gandhi Government Medical College & Hospital",
-        "name": "Indira Gandhi Government Medical College & Hospital"
+        "name": "Indira Gandhi Government Medical College & Hospital",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -570,8 +645,9 @@
       "type": "Feature",
       "properties": {
         "description": "Kasturba Hospital chinchpokli",
-        "name": "Kasturba Hospital chinchpokli"
-        "contact": ["23027700","23083901","23083902","23083903","23083904"]
+        "name": "Kasturba Hospital chinchpokli",
+        "contact": "+91-22-23027700,+91-22-23083901,+91-22-23083902,+91-22-23083903,+91-22-23083904",
+        "address": ""
       },
       "geometry": {
         "type": "Point",
@@ -585,7 +661,9 @@
       "type": "Feature",
       "properties": {
         "description": "Armed Forces Medical College Pune",
-        "name": "Armed Forces Medical College Pune"
+        "name": "Armed Forces Medical College Pune",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -599,7 +677,9 @@
       "type": "Feature",
       "properties": {
         "description": "MCC Campus, National Institute of Virology, NIV",
-        "name": "MCC Campus, National Institute of Virology, NIV"
+        "name": "MCC Campus, National Institute of Virology, NIV",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -613,7 +693,9 @@
       "type": "Feature",
       "properties": {
         "description": "B J Government Medical College",
-        "name": "B J Government Medical College"
+        "name": "B J Government Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -627,7 +709,9 @@
       "type": "Feature",
       "properties": {
         "description": "Jawaharlal Nehru Institute of Medical Sciences, Imphal.",
-        "name": "Jawaharlal Nehru Institute of Medical Sciences, Imphal."
+        "name": "Jawaharlal Nehru Institute of Medical Sciences, Imphal.",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -641,7 +725,9 @@
       "type": "Feature",
       "properties": {
         "description": "Regional Institute of Medical Sciences",
-        "name": "Regional Institute of Medical Sciences"
+        "name": "Regional Institute of Medical Sciences",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -655,7 +741,9 @@
       "type": "Feature",
       "properties": {
         "description": "ISNR CME 2020",
-        "name": "ISNR CME 2020"
+        "name": "ISNR CME 2020",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -669,7 +757,9 @@
       "type": "Feature",
       "properties": {
         "description": "Regional Medical Research Center",
-        "name": "Regional Medical Research Center"
+        "name": "Regional Medical Research Center",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -683,7 +773,9 @@
       "type": "Feature",
       "properties": {
         "description": "Jawaharlal Institute of Postgraduate Medical Education and Research",
-        "name": "Jawaharlal Institute of Postgraduate Medical Education and Research"
+        "name": "Jawaharlal Institute of Postgraduate Medical Education and Research",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -697,7 +789,9 @@
       "type": "Feature",
       "properties": {
         "description": "Government Medical College, Amritsar",
-        "name": "Government Medical College, Amritsar"
+        "name": "Government Medical College, Amritsar",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +805,9 @@
       "type": "Feature",
       "properties": {
         "description": "Government Medical College, Patiala",
-        "name": "Government Medical College, Patiala"
+        "name": "Government Medical College, Patiala",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -725,7 +821,9 @@
       "type": "Feature",
       "properties": {
         "description": "Maharaja Sawai Man Singh Vidyalaya",
-        "name": "Maharaja Sawai Man Singh Vidyalaya"
+        "name": "Maharaja Sawai Man Singh Vidyalaya",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -739,7 +837,9 @@
       "type": "Feature",
       "properties": {
         "description": "Dr. Sampurnanand Medical College (SNMC)",
-        "name": "Dr. Sampurnanand Medical College (SNMC)"
+        "name": "Dr. Sampurnanand Medical College (SNMC)",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -753,7 +853,9 @@
       "type": "Feature",
       "properties": {
         "description": "JHALAWAR MEDICAL COLLEGE",
-        "name": "JHALAWAR MEDICAL COLLEGE"
+        "name": "JHALAWAR MEDICAL COLLEGE",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -767,7 +869,9 @@
       "type": "Feature",
       "properties": {
         "description": "Sardar Patel Medical College",
-        "name": "Sardar Patel Medical College"
+        "name": "Sardar Patel Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -781,7 +885,9 @@
       "type": "Feature",
       "properties": {
         "description": "Ravindra Nath Tagore Medical College, Udaipur",
-        "name": "Ravindra Nath Tagore Medical College, Udaipur"
+        "name": "Ravindra Nath Tagore Medical College, Udaipur",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -795,7 +901,9 @@
       "type": "Feature",
       "properties": {
         "description": "All India Institute of Medical Sciences(AIIMS), Jodhpur",
-        "name": "All India Institute of Medical Sciences(AIIMS), Jodhpur"
+        "name": "All India Institute of Medical Sciences(AIIMS), Jodhpur",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -809,7 +917,9 @@
       "type": "Feature",
       "properties": {
         "description": "Sher - i - Kashmir Institute of Medical Sciences",
-        "name": "Sher - i - Kashmir Institute of Medical Sciences"
+        "name": "Sher - i - Kashmir Institute of Medical Sciences",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -823,7 +933,9 @@
       "type": "Feature",
       "properties": {
         "description": "Government Medical College (GMC)",
-        "name": "Government Medical College (GMC)"
+        "name": "Government Medical College (GMC)",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -837,7 +949,9 @@
       "type": "Feature",
       "properties": {
         "description": "The King Institute of Preventive Medicine and Research",
-        "name": "The King Institute of Preventive Medicine and Research"
+        "name": "The King Institute of Preventive Medicine and Research",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -851,7 +965,9 @@
       "type": "Feature",
       "properties": {
         "description": "Theni Government Medical College",
-        "name": "Theni Government Medical College"
+        "name": "Theni Government Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -865,7 +981,9 @@
       "type": "Feature",
       "properties": {
         "description": "Govt. Thiruvarur Medical College",
-        "name": "Govt. Thiruvarur Medical College"
+        "name": "Govt. Thiruvarur Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -879,7 +997,9 @@
       "type": "Feature",
       "properties": {
         "description": "Tirunelveli Medical College",
-        "name": "Tirunelveli Medical College"
+        "name": "Tirunelveli Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -893,7 +1013,9 @@
       "type": "Feature",
       "properties": {
         "description": "Coimbatore Medical College",
-        "name": "Coimbatore Medical College"
+        "name": "Coimbatore Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -907,7 +1029,9 @@
       "type": "Feature",
       "properties": {
         "description": "Madras Medical College",
-        "name": "Madras Medical College"
+        "name": "Madras Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -921,7 +1045,9 @@
       "type": "Feature",
       "properties": {
         "description": "Gandhi Medical College",
-        "name": "Gandhi Medical College"
+        "name": "Gandhi Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -935,7 +1061,9 @@
       "type": "Feature",
       "properties": {
         "description": "Osmania Medical College",
-        "name": "Osmania Medical College"
+        "name": "Osmania Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -949,7 +1077,9 @@
       "type": "Feature",
       "properties": {
         "description": "Tripura Medical College",
-        "name": "Tripura Medical College"
+        "name": "Tripura Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -963,7 +1093,9 @@
       "type": "Feature",
       "properties": {
         "description": "King George's Medical University",
-        "name": "King George's Medical University"
+        "name": "King George's Medical University",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -977,7 +1109,9 @@
       "type": "Feature",
       "properties": {
         "description": "Institute of Medical Sciences BHU",
-        "name": "Institute of Medical Sciences BHU"
+        "name": "Institute of Medical Sciences BHU",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -991,7 +1125,9 @@
       "type": "Feature",
       "properties": {
         "description": "Jawaharlal Nehru Medical College, AMU,",
-        "name": "Jawaharlal Nehru Medical College, AMU,"
+        "name": "Jawaharlal Nehru Medical College, AMU,",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -1005,7 +1141,9 @@
       "type": "Feature",
       "properties": {
         "description": "Command Hospital (Central Command)",
-        "name": "Command Hospital (Central Command)"
+        "name": "Command Hospital (Central Command)",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -1019,7 +1157,9 @@
       "type": "Feature",
       "properties": {
         "description": "Government Medical College",
-        "name": "Government Medical College"
+        "name": "Government Medical College",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -1033,7 +1173,9 @@
       "type": "Feature",
       "properties": {
         "description": "National Institute of Cholera and Enteric Diseases",
-        "name": "National Institute of Cholera and Enteric Diseases"
+        "name": "National Institute of Cholera and Enteric Diseases",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",
@@ -1047,7 +1189,9 @@
       "type": "Feature",
       "properties": {
         "description": "Institute of Post Graduate Medical Education and Research , Kolkata",
-        "name": "Institute of Post Graduate Medical Education and Research , Kolkata"
+        "name": "Institute of Post Graduate Medical Education and Research , Kolkata",
+        "address": "",
+        "contact": ""
       },
       "geometry": {
         "type": "Point",

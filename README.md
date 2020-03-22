@@ -8,8 +8,8 @@ Hello All, I have created this to consolidate major information on Corona Virus 
   + Toll free: **1075**
   + **+91-11-23978046**
 
-#### Novel CoronaVirus case worldwide on map
-https://bit.ly/coronavirus_worldwide_map
+#### Novel CoronaVirus cases worldwide by country updated Dashboard
+https://bit.ly/coronavirus_worldwide_count
 
 #### Corona virus Test Centers in India Data
 Test centers location data in India for COVID-19 (Novel Corona virus), updated daily

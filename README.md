@@ -24,8 +24,8 @@ Test centers location data in India for COVID-19 (Novel Corona virus), updated d
 
 #### [Download Comic on Coronavirus for Children in Hindi](https://github.com/cool5785/corona-data-india/raw/master/Corona-Comics-For-Kids-in-Hindi-India.pdf)
 
-#### Corona Virus Symptoms
-![](https://www.cdc.gov/coronavirus/2019-ncov/images/social/covid-19-symptoms-v03.png)
+#### Flu v/s Allergy v/s Corona[Covid19]
+![](https://www.uab.edu/news/images/2018/Flu-vs-Allergies-vs-COVID_1copy.jpg)
 
 #### Helpline Numbers
 

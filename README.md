@@ -24,6 +24,9 @@ Test centers location data in India for COVID-19 (Novel Corona virus), updated d
 
 #### [Download Comic on Coronavirus for Children in Hindi](https://github.com/cool5785/corona-data-india/raw/master/Corona-Comics-For-Kids-in-Hindi-India.pdf)
 
+#### Corona Virus Symptoms
+![](https://www.cdc.gov/coronavirus/2019-ncov/images/social/covid-19-symptoms-v03.png)
+
 #### Helpline Numbers
 
 | S. No |Name of the State |Helpline Nos. |

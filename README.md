@@ -1,5 +1,7 @@
 # corona-data-india
 
+Hello All, I have created this to consolidate major information on Corona Virus in India. Feel free to edit and pull for changes
+
 #### Coronavirus Govt. of India website
 + https://www.mohfw.gov.in/
 + National Helpline Number 

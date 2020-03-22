@@ -1,2 +1,2 @@
 # corona-data-india
-Corona Test centers in India, updated daily
+Test centers location data in India for COVID-19 (Novel Corona virus), updated daily

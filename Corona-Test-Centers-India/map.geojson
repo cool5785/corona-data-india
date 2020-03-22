@@ -566,8 +566,8 @@
       "properties": {
         "description": "Advanced Institute Of Medical Sciences",
         "name": "Advanced Institute Of Medical Sciences",
-        "address": "",
-        "contact": ""
+        "address": "Inayatpur, Bhopal, Madhya Pradesh 462042",
+        "contact": "+91 755 605 1112"
       },
       "geometry": {
         "type": "Point",
@@ -582,8 +582,8 @@
       "properties": {
         "description": "National Institute of Research In Tribal Health",
         "name": "National Institute of Research In Tribal Health",
-        "address": "",
-        "contact": ""
+        "address": "Nagpur Road, near NSCB Medical Collage, Dhanvantri Nagar, Shastri Nagar, Jabalpur, Madhya Pradesh 482003",
+        "contact": "+91 76123 70800"
       },
       "geometry": {
         "type": "Point",
@@ -599,7 +599,7 @@
         "description": "Mahatma Gandhi Memorial Medical College",
         "name": "Mahatma Gandhi Memorial Medical College",
         "contact": "+91-7312527292",
-        "address": "A.B.Road, Indore, Madhya Pradesh 452001"
+        "address": "A.B.Road, CRP Line, Indore, Madhya Pradesh 452001"
       },
       "geometry": {
         "type": "Point",
@@ -615,7 +615,7 @@
         "description": "King Edward Memorial [KEM] Hospital and Medical College",
         "name": "King Edward Memorial [KEM] Hospital and Medical College",
         "contact": "+91-22-2410-7000",
-        "address": ""
+        "address": "Acharya Donde Marg, Parel East, Mumbai, Maharashtra 400012"
       },
       "geometry": {
         "type": "Point",
@@ -630,8 +630,8 @@
       "properties": {
         "description": "Indira Gandhi Government Medical College & Hospital",
         "name": "Indira Gandhi Government Medical College & Hospital",
-        "address": "",
-        "contact": ""
+        "address": "Mayo Hospital, Central Ave, Mominpura, Nagpur, Maharashtra 440018",
+        "contact": "+91 712 272 5423"
       },
       "geometry": {
         "type": "Point",
@@ -647,7 +647,7 @@
         "description": "Kasturba Hospital chinchpokli",
         "name": "Kasturba Hospital chinchpokli",
         "contact": "+91-22-23027700,+91-22-23083901,+91-22-23083902,+91-22-23083903,+91-22-23083904",
-        "address": ""
+        "address": "Sane Guruji Marg, Arya Nagar, Chinchpokli, Mumbai, Maharashtra 400034"
       },
       "geometry": {
         "type": "Point",
@@ -662,8 +662,8 @@
       "properties": {
         "description": "Armed Forces Medical College Pune",
         "name": "Armed Forces Medical College Pune",
-        "address": "",
-        "contact": ""
+        "address": "Southern Command, Solapur Road, Wanowrie, near Race Course, Pune Cantonment, Pune, Maharashtra 411040",
+        "contact": "+91 20 2337 3158"
       },
       "geometry": {
         "type": "Point",
@@ -678,8 +678,8 @@
       "properties": {
         "description": "MCC Campus, National Institute of Virology, NIV",
         "name": "MCC Campus, National Institute of Virology, NIV",
-        "address": "",
-        "contact": ""
+        "address": "MCC 130/1 Sus Road, Pashan, Pune, Maharashtra 411021",
+        "contact": "+91 20 2600 6390"
       },
       "geometry": {
         "type": "Point",
@@ -694,8 +694,8 @@
       "properties": {
         "description": "B J Government Medical College",
         "name": "B J Government Medical College",
-        "address": "",
-        "contact": ""
+        "address": "Jai Prakash Narayan Road, Railway Station Rd, near Pune, Agarkar Nagar, Pune, Maharashtra 411001",
+        "contact": "+91 20 2612 8000"
       },
       "geometry": {
         "type": "Point",
@@ -710,8 +710,8 @@
       "properties": {
         "description": "Jawaharlal Nehru Institute of Medical Sciences, Imphal.",
         "name": "Jawaharlal Nehru Institute of Medical Sciences, Imphal.",
-        "address": "",
-        "contact": ""
+        "address": "Porompat, Khongnang Makhong, Imphal, Manipur 795004",
+        "contact": "+91 385 244 3144"
       },
       "geometry": {
         "type": "Point",
@@ -726,8 +726,8 @@
       "properties": {
         "description": "Regional Institute of Medical Sciences",
         "name": "Regional Institute of Medical Sciences",
-        "address": "",
-        "contact": ""
+        "address": "Lamphel Road, Lamphelpat, Imphal, Manipur 795004",
+        "contact": "+91 385 241 1484"
       },
       "geometry": {
         "type": "Point",
@@ -742,8 +742,8 @@
       "properties": {
         "description": "ISNR CME 2020",
         "name": "ISNR CME 2020",
-        "address": "",
-        "contact": ""
+        "address": "Department of Radiology & Imaging, NEIGRIHMS, Shillong, Meghalaya 793018",
+        "contact": "+91 364 253 8013"
       },
       "geometry": {
         "type": "Point",
@@ -758,8 +758,8 @@
       "properties": {
         "description": "Regional Medical Research Center",
         "name": "Regional Medical Research Center",
-        "address": "",
-        "contact": ""
+        "address": "NALCO Nagar, Chandrasekharpur, Bhubaneswar, Odisha 751023",
+        "contact": "+91 674 230 1322"
       },
       "geometry": {
         "type": "Point",
@@ -774,8 +774,8 @@
       "properties": {
         "description": "Jawaharlal Institute of Postgraduate Medical Education and Research",
         "name": "Jawaharlal Institute of Postgraduate Medical Education and Research",
-        "address": "",
-        "contact": ""
+        "address": "Jipmer Campus Rd, Gorimedu, Dhanvantari Nagar, Puducherry, 605006",
+        "contact": "+91 413 227 1301"
       },
       "geometry": {
         "type": "Point",
@@ -790,8 +790,8 @@
       "properties": {
         "description": "Government Medical College, Amritsar",
         "name": "Government Medical College, Amritsar",
-        "address": "",
-        "contact": ""
+        "address": "Medical Enclave, Amritsar, Punjab 143001",
+        "contact": "+91 183 242 6918"
       },
       "geometry": {
         "type": "Point",
@@ -806,8 +806,8 @@
       "properties": {
         "description": "Government Medical College, Patiala",
         "name": "Government Medical College, Patiala",
-        "address": "",
-        "contact": ""
+        "address": "Sangrur Rd, New Lal Bagh Colony, Patiala, Punjab 147001",
+        "contact": "+91 175 221 2018"
       },
       "geometry": {
         "type": "Point",

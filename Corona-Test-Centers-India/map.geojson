@@ -7,7 +7,7 @@
         "description": "Regional Medical Research Centre",
         "name": "Regional Medical Research Centre",
         "contact": "",
-        "address": ""
+        "address": "744103 Post Bag 13, Dollygunj, Port Blair, Andaman and Nicobar Islands 744103"
       },
       "geometry": {
         "type": "Point",
@@ -22,8 +22,8 @@
       "properties": {
         "description": "Sri Venkateswara Institute of Medical Sciences (SVIMS)",
         "name": "Sri Venkateswara Institute of Medical Sciences (SVIMS)",
-        "address": "",
-        "contact": ""
+        "address": "Alipiri Rd, Sri Padmavati Mahila Visvavidyalayam, Tirupati, Andhra Pradesh 517507",
+        "contact": "+91 877 228 7777"
       },
       "geometry": {
         "type": "Point",
@@ -38,8 +38,8 @@
       "properties": {
         "description": "Rangaraya Medical College",
         "name": "Rangaraya Medical College",
-        "address": "",
-        "contact": ""
+        "address": "Pithapuram Rd - Nemam Rd, Kakinada, Andhra Pradesh 533001",
+        "contact": "+91 884 236 3401"
       },
       "geometry": {
         "type": "Point",
@@ -54,8 +54,8 @@
       "properties": {
         "description": "Siddhartha Medical College (SMC)",
         "name": "Siddhartha Medical College (SMC)",
-        "address": "",
-        "contact": ""
+        "address": "NH 16 Service Rd, beside Dr NTR University of Health Sciences, Gunadala, Vijayawada, Andhra Pradesh 520008",
+        "contact": "+91 866 245 0390"
       },
       "geometry": {
         "type": "Point",
@@ -70,7 +70,7 @@
       "properties": {
         "description": "Government Medical College",
         "name": "Government Medical College",
-        "address": "",
+        "address": "Rahamat Nagar, Anantapur, Andhra Pradesh 515001",
         "contact": ""
       },
       "geometry": {
@@ -86,7 +86,7 @@
       "properties": {
         "description": "Gauhati Medical College",
         "name": "Gauhati Medical College",
-        "address": "",
+        "address": "Notboma, Guwahati, Assam 781038",
         "contact": ""
       },
       "geometry": {
@@ -102,8 +102,8 @@
       "properties": {
         "description": "RMRC (ICMR), Dibrugarh, Assam",
         "name": "RMRC (ICMR), Dibrugarh, Assam",
-        "address": "",
-        "contact": ""
+        "address": "Bokul, Lahowal, Dibrugarh, Assam, Maijan Grant Gaon, Assam 786001",
+        "contact": "+91 373 238 1494"
       },
       "geometry": {
         "type": "Point",
@@ -118,8 +118,8 @@
       "properties": {
         "description": "Jorhat Medical College",
         "name": "Jorhat Medical College",
-        "address": "",
-        "contact": ""
+        "address": "Kushal Konwar Path, Barbheta, Kushal Nagar, Tarajan, Jorhat, Assam 785001",
+        "contact": "+91 376 237 0107"
       },
       "geometry": {
         "type": "Point",
@@ -134,7 +134,7 @@
       "properties": {
         "description": "Silchar Medical College",
         "name": "Silchar Medical College",
-        "address": "",
+        "address": "Steamer Ghat Rd, Tarapur, Silchar, Assam 788001",
         "contact": ""
       },
       "geometry": {
@@ -150,8 +150,8 @@
       "properties": {
         "description": "RMRIMS Agamkuan, Patna, Bihar",
         "name": "RMRIMS Agamkuan, Patna, Bihar",
-        "address": "",
-        "contact": ""
+        "address": "Sadikpur, Patna, Bihar 800007",
+        "contact": "+91 612 263 6651"
       },
       "geometry": {
         "type": "Point",
@@ -166,8 +166,8 @@
       "properties": {
         "description": "Post Graduate Institute of Medical Education & Research, Chandigarh",
         "name": "Post Graduate Institute of Medical Education & Research, Chandigarh",
-        "address": "",
-        "contact": ""
+        "address": "Madhya Marg, Sector 12, Chandigarh, 160012",
+        "contact": "+91 172 274 7585"
       },
       "geometry": {
         "type": "Point",
@@ -182,8 +182,8 @@
       "properties": {
         "description": "All India Institute of Medical Science Raipur, Chhatisgarh, INDIA",
         "name": "All India Institute of Medical Science Raipur, Chhatisgarh, INDIA",
-        "address": "",
-        "contact": ""
+        "address": "Great Eastern Rd, AIIMS Campus, Tatibandh, Raipur, Chhattisgarh 492099",
+        "contact": "+91 77125 72240"
       },
       "geometry": {
         "type": "Point",
@@ -198,8 +198,8 @@
       "properties": {
         "description": "All India Institute Of Medical Sciences, New Delhi",
         "name": "All India Institute Of Medical Sciences, New Delhi",
-        "address": "",
-        "contact": ""
+        "address": "Sri Aurobindo Marg, Ansari Nagar, Ansari Nagar East, New Delhi, Delhi 110029",
+        "contact": "+91 11 2658 8500"
       },
       "geometry": {
         "type": "Point",
@@ -214,8 +214,8 @@
       "properties": {
         "description": "Army Hospital Research And Referral",
         "name": "Army Hospital Research And Referral",
-        "address": "",
-        "contact": ""
+        "address": "Military Hospital Road Near, Subroto Park, Dhaula Kuan, New Delhi, Delhi 110010",
+        "contact": "+91 11 2333 8199"
       },
       "geometry": {
         "type": "Point",

@@ -525,7 +525,7 @@
       "properties": {
         "description": "Mahatma Gandhi Memorial Medical College",
         "name": "Mahatma Gandhi Memorial Medical College",
-        "contact": "+91-7312527383",
+        "contact": [+91-7312527383],
         "address": "A.B.Road, Indore, Madhya Pradesh 452001"
       },
       "geometry": {
@@ -539,9 +539,10 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "King Edward Memorial Hospital and Seth Gordhandas Sunderdas Medical College",
-        "name": "King Edward Memorial Hospital and Seth Gordhandas Sunderdas Medical College",
-        "contact": ""
+        "description": "King Edward Memorial [KEM] Hospital and Medical College",
+        "name": "King Edward Memorial [KEM] Hospital and Medical College",
+        "contact": [+91-22-2410-7000],
+        "address": ""
       },
       "geometry": {
         "type": "Point",
@@ -570,6 +571,7 @@
       "properties": {
         "description": "Kasturba Hospital chinchpokli",
         "name": "Kasturba Hospital chinchpokli"
+        "contact": ["23027700","23083901","23083902","23083903","23083904"]
       },
       "geometry": {
         "type": "Point",

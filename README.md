@@ -6,9 +6,9 @@ Feel free to use the data, edit and pull for changes :)
 
 ### Corona virus Test Centers in India Data
 
-+ Test centers location data in India for COVID-19 (Novel Corona virus), updated daily
++ Test centers location data in India for COVID-19 (Novel Corona virus), updated daily **[Click on Title to view map]**
 
-    | Laboratories (117) | Sample Test Centers (106)| Private Labs (16)|
+    | [Laboratories](http://geojson.io/#id=github:cool5785/corona-data-india/blob/master/Corona-Test-Centers-India/corona-labs/map.geojson&map=5/21.887/82.524) (117) | [Sample Collection Centers](http://geojson.io/#id=github:cool5785/corona-data-india/blob/master/Corona-Test-Centers-India/corona-sample-test-center/map.geojson&map=5/21.887/82.524) (106)| [Private Labs](http://geojson.io/#id=github:cool5785/corona-data-india/blob/master/Corona-Test-Centers-India/corona-private-labs/map.geojson&map=5/21.887/82.524) (16)|
     | ------ | ----- | ----- |
     | [GeoJSON](Corona-Test-Centers-India/corona-labs/map.geojson) | [GeoJSON](Corona-Test-Centers-India/corona-sample-test-center/map.geojson) | [GeoJSON](Corona-Test-Centers-India/corona-private-labs/map.geojson) |
     | [CSV](Corona-Test-Centers-India/corona-labs/points.csv) | [CSV](Corona-Test-Centers-India/corona-sample-test-center/points.csv) | [CSV](Corona-Test-Centers-India/corona-private-labs/points.csv) |

@@ -2,18 +2,24 @@
 
 Hello All, I have created this to consolidate major information on Corona Virus in India.
  
-Feel free to use the data, edit and pull for changes
+Feel free to use the data, edit and pull for changes :)
 
 ### Corona virus Test Centers in India Data
-Test centers location data in India for COVID-19 (Novel Corona virus), updated daily
 
-| Laboratories | Govt. Test Centers| Private Labs|
-| ------ | ----- | ----- |
-| [GeoJSON](Corona-Test-Centers-India/corona-labs/map.geojson) | [GeoJSON](Corona-Test-Centers-India/map.geojson) | [GeoJSON](Corona-Test-Centers-India/corona-private-labs/map.geojson) |
-| [CSV](Corona-Test-Centers-India/corona-labs/points.csv) | [CSV](Corona-Test-Centers-India/points.csv) | [CSV](Corona-Test-Centers-India/corona-private-labs/points.csv) |
-| [KML](Corona-Test-Centers-India/corona-labs/map.kml)| [KML](Corona-Test-Centers-India/map.kml) |  [KML](Corona-Test-Centers-India/corona-private-labs/map.kml) |
-| [TopoJSON](Corona-Test-Centers-India/corona-labs/map.topojson) | [TopoJSON](Corona-Test-Centers-India/map.topojson) | [TopoJSON](Corona-Test-Centers-India/corona-private-labs/map.topojson) |
-| [ShapeFile](Corona-Test-Centers-India/corona-labs/download.zip) | [ShapeFile](Corona-Test-Centers-India/download.zip) | [ShapeFile](Corona-Test-Centers-India/corona-private-labs/download.zip) |
++ Test centers location data in India for COVID-19 (Novel Corona virus), updated daily
+
+    | Laboratories | Govt. Test Centers| Private Labs|
+    | ------ | ----- | ----- |
+    | [GeoJSON](Corona-Test-Centers-India/corona-labs/map.geojson) | [GeoJSON](Corona-Test-Centers-India/map.geojson) | [GeoJSON](Corona-Test-Centers-India/corona-private-labs/map.geojson) |
+    | [CSV](Corona-Test-Centers-India/corona-labs/points.csv) | [CSV](Corona-Test-Centers-India/points.csv) | [CSV](Corona-Test-Centers-India/corona-private-labs/points.csv) |
+    | [KML](Corona-Test-Centers-India/corona-labs/map.kml)| [KML](Corona-Test-Centers-India/map.kml) |  [KML](Corona-Test-Centers-India/corona-private-labs/map.kml) |
+    | [TopoJSON](Corona-Test-Centers-India/corona-labs/map.topojson) | [TopoJSON](Corona-Test-Centers-India/map.topojson) | [TopoJSON](Corona-Test-Centers-India/corona-private-labs/map.topojson) |
+    | [ShapeFile](Corona-Test-Centers-India/corona-labs/download.zip) | [ShapeFile](Corona-Test-Centers-India/download.zip) | [ShapeFile](Corona-Test-Centers-India/corona-private-labs/download.zip) |
+
+
++ Sample Data Format
+
+    ![](https://raw.githubusercontent.com/cool5785/corona-data-india/master/images/labs-data-geojson.png)
 
 #### Coronavirus Govt. of India website
 + https://www.mohfw.gov.in/
@@ -22,7 +28,9 @@ Test centers location data in India for COVID-19 (Novel Corona virus), updated d
   + **+91-11-23978046**
 
 #### Novel CoronaVirus cases worldwide by country updated Dashboard
-https://bit.ly/coronavirus_worldwide_count
+-   URL: https://bit.ly/coronavirus_worldwide_count
+
+-   ![](https://raw.githubusercontent.com/cool5785/corona-data-india/master/images/covid19_dashboard_spg.png)
 
 #### [Download Comic on Coronavirus for Children in Hindi](https://github.com/cool5785/corona-data-india/raw/master/Corona-Comics-For-Kids-in-Hindi-India.pdf)
 

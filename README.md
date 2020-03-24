@@ -5,13 +5,13 @@ Hello All, I have created this to consolidate major information on Corona Virus 
 ### Corona virus Test Centers in India Data
 Test centers location data in India for COVID-19 (Novel Corona virus), updated daily
 
-| Laboratories | Test Centers|
-| ------ | ----- |
-| [GeoJSON](Corona-Test-Centers-India/corona-labs/map.geojson) | [GeoJSON](Corona-Test-Centers-India/map.geojson) |
-| [CSV](Corona-Test-Centers-India/corona-labs/points.csv) | [CSV](Corona-Test-Centers-India/points.csv) |
-| [KML](Corona-Test-Centers-India/corona-labs/map.kml)| [KML](Corona-Test-Centers-India/map.kml) |
-| [TopoJSON](Corona-Test-Centers-India/corona-labs/map.topojson) | [TopoJSON](Corona-Test-Centers-India/map.topojson) |
-| [ShapeFile](Corona-Test-Centers-India/corona-labs/download.zip) | [ShapeFile](Corona-Test-Centers-India/download.zip) |
+| Laboratories | Test Centers| Private Labs|
+| ------ | ----- | ----- |
+| [GeoJSON](Corona-Test-Centers-India/corona-labs/map.geojson) | [GeoJSON](Corona-Test-Centers-India/map.geojson) | [GeoJSON](Corona-Test-Centers-India/corona-private-labs/map.geojson) |
+| [CSV](Corona-Test-Centers-India/corona-labs/points.csv) | [CSV](Corona-Test-Centers-India/points.csv) | [CSV](Corona-Test-Centers-India/corona-private-labs/points.csv) |
+| [KML](Corona-Test-Centers-India/corona-labs/map.kml)| [KML](Corona-Test-Centers-India/map.kml) |  [KML](Corona-Test-Centers-India/corona-private-labs/map.kml) |
+| [TopoJSON](Corona-Test-Centers-India/corona-labs/map.topojson) | [TopoJSON](Corona-Test-Centers-India/map.topojson) | [TopoJSON](Corona-Test-Centers-India/corona-private-labs/map.topojson) |
+| [ShapeFile](Corona-Test-Centers-India/corona-labs/download.zip) | [ShapeFile](Corona-Test-Centers-India/download.zip) | [ShapeFile](Corona-Test-Centers-India/corona-private-labs/download.zip) |
 
 #### Coronavirus Govt. of India website
 + https://www.mohfw.gov.in/

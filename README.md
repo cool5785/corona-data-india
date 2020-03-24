@@ -1,11 +1,13 @@
 # corona-data-india
 
-Hello All, I have created this to consolidate major information on Corona Virus in India. Feel free to edit and pull for changes
+Hello All, I have created this to consolidate major information on Corona Virus in India.
+ 
+Feel free to use the data, edit and pull for changes
 
 ### Corona virus Test Centers in India Data
 Test centers location data in India for COVID-19 (Novel Corona virus), updated daily
 
-| Laboratories | Test Centers| Private Labs|
+| Laboratories | Govt. Test Centers| Private Labs|
 | ------ | ----- | ----- |
 | [GeoJSON](Corona-Test-Centers-India/corona-labs/map.geojson) | [GeoJSON](Corona-Test-Centers-India/map.geojson) | [GeoJSON](Corona-Test-Centers-India/corona-private-labs/map.geojson) |
 | [CSV](Corona-Test-Centers-India/corona-labs/points.csv) | [CSV](Corona-Test-Centers-India/points.csv) | [CSV](Corona-Test-Centers-India/corona-private-labs/points.csv) |

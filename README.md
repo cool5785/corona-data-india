@@ -2,15 +2,6 @@
 
 Hello All, I have created this to consolidate major information on Corona Virus in India. Feel free to edit and pull for changes
 
-#### Coronavirus Govt. of India website
-+ https://www.mohfw.gov.in/
-+ National Helpline Number 
-  + Toll free: **1075**
-  + **+91-11-23978046**
-
-#### Novel CoronaVirus cases worldwide by country updated Dashboard
-https://bit.ly/coronavirus_worldwide_count
-
 #### Corona virus Test Centers in India Data
 Test centers location data in India for COVID-19 (Novel Corona virus), updated daily
 
@@ -21,6 +12,15 @@ Test centers location data in India for COVID-19 (Novel Corona virus), updated d
 | [KML](Corona-Test-Centers-India/map.kml) |
 | [TopoJSON](Corona-Test-Centers-India/map.topojson) |
 | [ShapeFile](Corona-Test-Centers-India/download.zip) |
+
+#### Coronavirus Govt. of India website
++ https://www.mohfw.gov.in/
++ National Helpline Number 
+  + Toll free: **1075**
+  + **+91-11-23978046**
+
+#### Novel CoronaVirus cases worldwide by country updated Dashboard
+https://bit.ly/coronavirus_worldwide_count
 
 #### [Download Comic on Coronavirus for Children in Hindi](https://github.com/cool5785/corona-data-india/raw/master/Corona-Comics-For-Kids-in-Hindi-India.pdf)
 

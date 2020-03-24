@@ -8,13 +8,13 @@ Feel free to use the data, edit and pull for changes :)
 
 + Test centers location data in India for COVID-19 (Novel Corona virus), updated daily
 
-    | Laboratories | Govt. Test Centers| Private Labs|
+    | Laboratories (117) | Sample Test Centers (106)| Private Labs (16)|
     | ------ | ----- | ----- |
-    | [GeoJSON](Corona-Test-Centers-India/corona-labs/map.geojson) | [GeoJSON](Corona-Test-Centers-India/map.geojson) | [GeoJSON](Corona-Test-Centers-India/corona-private-labs/map.geojson) |
-    | [CSV](Corona-Test-Centers-India/corona-labs/points.csv) | [CSV](Corona-Test-Centers-India/points.csv) | [CSV](Corona-Test-Centers-India/corona-private-labs/points.csv) |
-    | [KML](Corona-Test-Centers-India/corona-labs/map.kml)| [KML](Corona-Test-Centers-India/map.kml) |  [KML](Corona-Test-Centers-India/corona-private-labs/map.kml) |
-    | [TopoJSON](Corona-Test-Centers-India/corona-labs/map.topojson) | [TopoJSON](Corona-Test-Centers-India/map.topojson) | [TopoJSON](Corona-Test-Centers-India/corona-private-labs/map.topojson) |
-    | [ShapeFile](Corona-Test-Centers-India/corona-labs/download.zip) | [ShapeFile](Corona-Test-Centers-India/download.zip) | [ShapeFile](Corona-Test-Centers-India/corona-private-labs/download.zip) |
+    | [GeoJSON](Corona-Test-Centers-India/corona-labs/map.geojson) | [GeoJSON](Corona-Test-Centers-India/corona-sample-test-center/map.geojson) | [GeoJSON](Corona-Test-Centers-India/corona-private-labs/map.geojson) |
+    | [CSV](Corona-Test-Centers-India/corona-labs/points.csv) | [CSV](Corona-Test-Centers-India/corona-sample-test-center/points.csv) | [CSV](Corona-Test-Centers-India/corona-private-labs/points.csv) |
+    | [KML](Corona-Test-Centers-India/corona-labs/map.kml)| [KML](Corona-Test-Centers-India/corona-sample-test-center/map.kml) |  [KML](Corona-Test-Centers-India/corona-private-labs/map.kml) |
+    | [TopoJSON](Corona-Test-Centers-India/corona-labs/map.topojson) | [TopoJSON](Corona-Test-Centers-India/corona-sample-test-center/map.topojson) | [TopoJSON](Corona-Test-Centers-India/corona-private-labs/map.topojson) |
+    | [ShapeFile](Corona-Test-Centers-India/corona-labs/download.zip) | [ShapeFile](Corona-Test-Centers-India/corona-sample-test-center/download.zip) | [ShapeFile](Corona-Test-Centers-India/corona-private-labs/download.zip) |
 
 
 + Sample Data Format

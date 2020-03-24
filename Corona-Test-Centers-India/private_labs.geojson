@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "Lal Path Labs",
+            "name": "Lal Path Labs",
+            "address": "Lal Path Labs, Block -E, Sector 18, Rohini, Delhi",
+            "contact": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                77.13641,
+                28.73885
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "Unipath Specialty Laboratory, Ahmedabad",
+            "name": "Unipath Specialty Laboratory, Ahmedabad",
+            "address": "Address: 102, 1st Floor, Sanoma Plaza, Sheth Mangald Road, Opp. Parimal Garden, Ellisbridge, Ahmedabad, Gujarat 380006",
+            "contact": "079 4900 6800"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                72.55566,
+                23.0191
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "Strand Life Sciences, Gurugram",
+            "name": "Strand Life Sciences, Gurugram",
+            "address": "Strand Life Sciences, A-17, Sector 34, Gurugram",
+            "contact": "1-800-1022-695"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                77.01553,
+                28.42943
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "SRL Diagnostics, Gurugram",
+            "name": "SRL Diagnostics, Gurugram",
+            "address": "SRL,REFERENCE LAB, GP-26, MARUTI INDUSTRIAL ESTATE, Udyog Vihar, Sector 18, Gurugram, Haryana 122015",
+            "contact": "0124 441 2121"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                77.06168,
+                28.4891
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "Neuberg Anand Reference Laboratory",
+            "name": "Neuberg Anand Reference Laboratory",
+            "address": "Aanand Tower, No 54, Bowring Tower, Bowring Hospital Rd, Shivaji Nagar, Bengaluru, Karnataka 560001",
+            "contact": "080 2531 8550"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                77.60614,
+                12.98146
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "Thyrocare Technologies Ltd",
+            "name": "Thyrocare Technologies Ltd",
+            "address": "Thyrocare Technologies Limited, D37/1, TTC MIDC, Turbhe, Navi Mumbai, Maharashtra 400703",
+            "contact": "(+91)22 - 6712 3400,(+91)22 - 3090 0000"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                72.99975,
+                19.07425
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "Suburban Diagnostics, Andheri (West)",
+            "name": "Suburban Diagnostics, Andheri (West)",
+            "address": "Suburban Diagnostics (India) Pvt. Ltd., 306, 307/T, 3rd Floor, Sunshine Bld., Andheri (W), Mumbai",
+            "contact": " 022 6170 0000"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                72.82607,
+                19.13733
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "Sir H. N. Reliance Foundation Hospital and Research Centre, Navi Mumbai",
+            "name": "Sir H. N. Reliance Foundation Hospital and Research Centre, Navi Mumbai",
+            "address": "Sir H.N. Reliance Foundation Hospital and Research Centre, Molecular Medicine, Reliance Life Sciences Pvt. Ltd., R-282, TTC Industrial Area, Rabale, Navi Mumbai",
+            "contact": "1800 22 1166"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                73.00445,
+                19.13921
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "SRL Diagnostics, Mumbai",
+            "name": "SRL Diagnostics, Mumbai",
+            "address": "SRL Limited, Prime Square Building, Plot No 1, Gaiwadi Industrial Estate, SV Road, Goregaon West, Mumbai",
+            "contact": "1800 222 000,1800 102 8282"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                72.84561,
+                19.17139
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "Department of Clinical Virology, CMC, Vellore",
+            "name": "Department of Clinical Virology, CMC, Vellore",
+            "address": "Dept. of Clinical Virology, CMC, Vellore",
+            "contact": "0416 2284294"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                79.13481,
+                12.9246
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "Apollo Hospital, Chennai",
+            "name": "Apollo Hospital, Chennai",
+            "address": "'Sunny Side', East Block, 3rd Floor, 8/17, Shafee Mohamed Road, Chennai, Tamil Nadu 600006",
+            "contact": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                80.25335,
+                13.06108
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "Dr. Dangs Lab, New Delhi",
+            "name": "Dr. Dangs Lab, New Delhi",
+            "address": "Aurobindo Market, C2/1, S.D.A. Aurobindo Marg Next to, New Delhi, Delhi 110016",
+            "contact": "099999 92020"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                77.20345,
+                28.55013
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "Indraprastha Apollo Hospital",
+            "name": "Indraprastha Apollo Hospital",
+            "address": "Indraprastha Apollo Hospitals, Mathura Rd, Sarita Vihar, New Delhi, Delhi 110076",
+            "contact": "1860 500 1066"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                77.28342,
+                28.54059
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "Supratech Micropath Laboratory, Ahmedabad",
+            "name": "Supratech Micropath Laboratory, Ahmedabad",
+            "address": "Neuberg Supratech, Ground Floor, Kedar Builiding, Opp. Krupa petrol Pump Parimal garden, Gujarat 380006",
+            "contact": "079 4040 8181"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                72.55928,
+                23.01982
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "Metropolis Healthcare Ltd",
+            "name": "Metropolis Healthcare Ltd",
+            "address": "4th Floor, Commerical Building 1-A, Kohinoor City Mall, Off LBS Marg, Vidyavihar (West), Mumbai, Maharashtra 400070",
+            "contact": "022 3399 3939"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                72.88572,
+                19.08201
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "featureType": "Private Lab",
+            "contactPerson": "",
+            "level": "",
+            "description": "Apollo Hospital, Hyderabad",
+            "name": "Apollo Hospital, Hyderabad",
+            "address": "Rd Number 72, opp. Bharatiya Vidya Bhavan School, Jubilee Hills, Hyderabad, Telangana 500033",
+            "contact": "1860 500 1066"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                78.41234,
+                17.41487
+            ]
+        }
+    }
+]
+}

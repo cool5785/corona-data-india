@@ -5,8 +5,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Regional Medical Research Centre",
         "name": "Regional Medical Research Centre",
         "contact": "03192 251158,03192 251159",
@@ -24,8 +22,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Sri Venkateswara Institute of Medical Sciences (SVIMS)",
         "name": "Sri Venkateswara Institute of Medical Sciences (SVIMS)",
         "address": "Alipiri Rd, Sri Padmavati Mahila Visvavidyalayam, Tirupati, Andhra Pradesh 517507",
@@ -43,8 +39,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Rangaraya Medical College",
         "name": "Rangaraya Medical College",
         "address": "Pithapuram Rd - Nemam Rd, Kakinada, Andhra Pradesh 533001",
@@ -62,8 +56,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Siddhartha Medical College (SMC)",
         "name": "Siddhartha Medical College (SMC)",
         "address": "NH 16 Service Rd, beside Dr NTR University of Health Sciences, Gunadala, Vijayawada, Andhra Pradesh 520008",
@@ -81,8 +73,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Government Medical College",
         "name": "Government Medical College",
         "address": "Rahamat Nagar, Anantapur, Andhra Pradesh 515001",
@@ -100,8 +90,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Gauhati Medical College",
         "name": "Gauhati Medical College",
         "address": "Notboma, Guwahati, Assam 781038",
@@ -119,8 +107,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "RMRC (ICMR), Dibrugarh, Assam",
         "name": "RMRC (ICMR), Dibrugarh, Assam",
         "address": "Bokul, Lahowal, Dibrugarh, Assam, Maijan Grant Gaon, Assam 786001",
@@ -138,8 +124,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Jorhat Medical College",
         "name": "Jorhat Medical College",
         "address": "Kushal Konwar Path, Barbheta, Kushal Nagar, Tarajan, Jorhat, Assam 785001",
@@ -157,8 +141,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Silchar Medical College",
         "name": "Silchar Medical College",
         "address": "Steamer Ghat Rd, Tarapur, Silchar, Assam 788001",
@@ -176,8 +158,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "RMRIMS Agamkuan, Patna, Bihar",
         "name": "RMRIMS Agamkuan, Patna, Bihar",
         "address": "Sadikpur, Patna, Bihar 800007",
@@ -195,8 +175,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Post Graduate Institute of Medical Education & Research, Chandigarh",
         "name": "Post Graduate Institute of Medical Education & Research, Chandigarh",
         "address": "Madhya Marg, Sector 12, Chandigarh, 160012",
@@ -214,8 +192,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "All India Institute of Medical Science Raipur, Chhatisgarh, INDIA",
         "name": "All India Institute of Medical Science Raipur, Chhatisgarh, INDIA",
         "address": "Great Eastern Rd, AIIMS Campus, Tatibandh, Raipur, Chhattisgarh 492099",
@@ -233,8 +209,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "All India Institute Of Medical Sciences, New Delhi",
         "name": "All India Institute Of Medical Sciences, New Delhi",
         "address": "Sri Aurobindo Marg, Ansari Nagar, Ansari Nagar East, New Delhi, Delhi 110029",
@@ -252,8 +226,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Army Hospital Research And Referral",
         "name": "Army Hospital Research And Referral",
         "address": "Military Hospital Road Near, Subroto Park, Dhaula Kuan, New Delhi, Delhi 110010",
@@ -271,8 +243,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Lady Hardinge Medical College",
         "name": "Lady Hardinge Medical College",
         "address": "Lady Hardinge Medical College, Connaught Place, New Delhi, Delhi 110001",
@@ -290,8 +260,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "National Co-operative Development Corporation",
         "name": "National Co-operative Development Corporation",
         "address": "4, Siri Institutional Area, Block A, Nipccd Campus, Hauz Khas, New Delhi, Delhi 110016",
@@ -309,8 +277,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "B.J. Medical College and Civil hospital",
         "name": "B.J. Medical College and Civil hospital",
         "address": "B j medical college, Haripura, Asarwa, Ahmedabad, Gujarat 380016",
@@ -328,8 +294,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Shri M P Shah Government Medical College",
         "name": "Shri M P Shah Government Medical College",
         "address": "Pandit Nehru Marg, Indradeep Society, Jamnagar, Gujarat 361008",
@@ -347,8 +311,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences",
         "name": "Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences",
         "address": "Medical Rd, Rohtak, Haryana 124001",
@@ -366,8 +328,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Bhagat Phool Singh Government Medical College",
         "name": "Bhagat Phool Singh Government Medical College",
         "address": "Ganaur - Gohana Rd, Khanpur Kalan, Haryana 131305",
@@ -385,8 +345,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Indira Gandhi Medical College & Hospital",
         "name": "Indira Gandhi Medical College & Hospital",
         "address": "Ridge Sanjauli Rd, Lakkar Bazar, Shimla, Himachal Pradesh 171001",
@@ -404,8 +362,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Dr. Rajendra Prasad Government Medical College",
         "name": "Dr. Rajendra Prasad Government Medical College",
         "address": "Tanda Hospital Rd, Kangra, Himachal Pradesh 176001",
@@ -423,8 +379,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Government Medical College and hospital",
         "name": "Government Medical College and hospital",
         "address": "maheshpura, chowk, Bakshi Nagar, Jammu Cantonment, Jammu and Kashmir 180001",
@@ -442,8 +396,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Military Command Hospital Udhampur",
         "name": "Military Command Hospital Udhampur",
         "address": "Raghunathpura, Udhampur, Jammu and Kashmir 182101",
@@ -461,8 +413,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "MGM Medical College & Hospital, Jamshedpur",
         "name": "MGM Medical College & Hospital, Jamshedpur",
         "address": "Dimna Rd, Hill View Colony, Mango, Jamshedpur, Jharkhand 831020",
@@ -480,8 +430,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "National Institute Of Virology Bangalore Karnataka",
         "name": "National Institute Of Virology Bangalore Karnataka",
         "address": "Jaya Nagar 1st Block, Jayanagar, Bengaluru, Karnataka 560011",
@@ -499,8 +447,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Hassan Institute Of Medical Sciences",
         "name": "Hassan Institute Of Medical Sciences",
         "address": "Shri panchamukhi medicals and clinic, opp. govt high school, Rangoli Halla, Hassan, Karnataka 573201",
@@ -518,8 +464,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Mysore Medical College And Research Institute",
         "name": "Mysore Medical College And Research Institute",
         "address": "Irwin Road, next to Railway Staion, Medar Block, Yadavagiri, Mysuru, Karnataka 570001",
@@ -537,8 +481,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "SHIMOGA Institute of Medical Sciences (SIMS)",
         "name": "SHIMOGA Institute of Medical Sciences (SIMS)",
         "address": "Sagar Road, Mission Compound, Shivamogga, Karnataka 577201",
@@ -556,8 +498,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Command Hospital Air Force",
         "name": "Command Hospital Air Force",
         "address": "Cambridge Rd, Cambridge Layout, Jogupalya, Bengaluru, Karnataka 560007",
@@ -575,8 +515,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "BMCRI- Bangalore Medical College and Research Institute",
         "name": "BMCRI- Bangalore Medical College and Research Institute",
         "address": "Fort, Krishna Rajendra Rd, Kalasipalya, Bengaluru, Karnataka 560002",
@@ -594,8 +532,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "National Institute of Virology,Kerala Unit",
         "name": "National Institute of Virology,Kerala Unit",
         "address": "Vandanam, Kerala 688005",
@@ -613,8 +549,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Government Medical College Thiruvananthapuram",
         "name": "Government Medical College Thiruvananthapuram",
         "address": "Ulloor - Akkulam Rd, near SAT hospital Medical College Junction, Chalakkuzhi, Thiruvananthapuram, Kerala 695011",
@@ -632,8 +566,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Govt Medical College,Kozhikode",
         "name": "Govt Medical College,Kozhikode",
         "address": "17 Medical College Road Medical College Junction, Near Police Station, Kozhikode, Kerala 673008",
@@ -651,8 +583,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Government Medical College, Thrissur",
         "name": "Government Medical College, Thrissur",
         "address": "M. G. Kavu, Thrissur, Kerala 680596",
@@ -670,8 +600,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Advanced Institute Of Medical Sciences",
         "name": "Advanced Institute Of Medical Sciences",
         "address": "Inayatpur, Bhopal, Madhya Pradesh 462042",
@@ -689,8 +617,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "National Institute of Research In Tribal Health",
         "name": "National Institute of Research In Tribal Health",
         "address": "Nagpur Road, near NSCB Medical Collage, Dhanvantri Nagar, Shastri Nagar, Jabalpur, Madhya Pradesh 482003",
@@ -708,8 +634,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Mahatma Gandhi Memorial Medical College",
         "name": "Mahatma Gandhi Memorial Medical College",
         "contact": "+91-7312527292",
@@ -727,8 +651,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "King Edward Memorial [KEM] Hospital and Medical College",
         "name": "King Edward Memorial [KEM] Hospital and Medical College",
         "contact": "+91-22-2410-7000",
@@ -746,8 +668,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Indira Gandhi Government Medical College & Hospital",
         "name": "Indira Gandhi Government Medical College & Hospital",
         "address": "Mayo Hospital, Central Ave, Mominpura, Nagpur, Maharashtra 440018",
@@ -765,8 +685,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Kasturba Hospital chinchpokli",
         "name": "Kasturba Hospital chinchpokli",
         "contact": "+91-22-23027700,+91-22-23083901,+91-22-23083902,+91-22-23083903,+91-22-23083904",
@@ -784,8 +702,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Armed Forces Medical College Pune",
         "name": "Armed Forces Medical College Pune",
         "address": "Southern Command, Solapur Road, Wanowrie, near Race Course, Pune Cantonment, Pune, Maharashtra 411040",
@@ -803,8 +719,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "MCC Campus, National Institute of Virology, NIV",
         "name": "MCC Campus, National Institute of Virology, NIV",
         "address": "MCC 130/1 Sus Road, Pashan, Pune, Maharashtra 411021",
@@ -822,8 +736,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "B J Government Medical College",
         "name": "B J Government Medical College",
         "address": "Jai Prakash Narayan Road, Railway Station Rd, near Pune, Agarkar Nagar, Pune, Maharashtra 411001",
@@ -841,8 +753,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Jawaharlal Nehru Institute of Medical Sciences, Imphal.",
         "name": "Jawaharlal Nehru Institute of Medical Sciences, Imphal.",
         "address": "Porompat, Khongnang Makhong, Imphal, Manipur 795004",
@@ -860,8 +770,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Regional Institute of Medical Sciences",
         "name": "Regional Institute of Medical Sciences",
         "address": "Lamphel Road, Lamphelpat, Imphal, Manipur 795004",
@@ -879,8 +787,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "ISNR CME 2020",
         "name": "ISNR CME 2020",
         "address": "Department of Radiology & Imaging, NEIGRIHMS, Shillong, Meghalaya 793018",
@@ -898,8 +804,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Regional Medical Research Center",
         "name": "Regional Medical Research Center",
         "address": "NALCO Nagar, Chandrasekharpur, Bhubaneswar, Odisha 751023",
@@ -917,8 +821,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Jawaharlal Institute of Postgraduate Medical Education and Research",
         "name": "Jawaharlal Institute of Postgraduate Medical Education and Research",
         "address": "Jipmer Campus Rd, Gorimedu, Dhanvantari Nagar, Puducherry, 605006",
@@ -936,8 +838,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Government Medical College, Amritsar",
         "name": "Government Medical College, Amritsar",
         "address": "Medical Enclave, Amritsar, Punjab 143001",
@@ -955,8 +855,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Government Medical College, Patiala",
         "name": "Government Medical College, Patiala",
         "address": "Sangrur Rd, New Lal Bagh Colony, Patiala, Punjab 147001",
@@ -974,8 +872,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Maharaja Sawai Man Singh Vidyalaya",
         "name": "Maharaja Sawai Man Singh Vidyalaya",
         "address": "Sawai Ram Singh Rd, Rambagh, Jaipur, Rajasthan 302004",
@@ -993,8 +889,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Dr. Sampurnanand Medical College (SNMC)",
         "name": "Dr. Sampurnanand Medical College (SNMC)",
         "address": "Residency Road, Near Sriram Excellency Hotel, opposite Petrol Pump, Sector-D, Shastri Nagar, Jodhpur, Rajasthan 342003",
@@ -1012,8 +906,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "JHALAWAR MEDICAL COLLEGE",
         "name": "JHALAWAR MEDICAL COLLEGE",
         "address": "N.H.-12, Kota Rd, Mansarowar Colony, Gayatri Nagar, Jhalawar, Rajasthan 326001",
@@ -1031,8 +923,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Sardar Patel Medical College",
         "name": "Sardar Patel Medical College",
         "address": "S.p.medical collage, PBM Hospital, Bikaner, Rajasthan 334001",
@@ -1050,8 +940,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Ravindra Nath Tagore Medical College, Udaipur",
         "name": "Ravindra Nath Tagore Medical College, Udaipur",
         "address": "Court Chowk, City's Prime Health Care Area, Udaipur, Rajasthan 313001",
@@ -1069,8 +957,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "All India Institute of Medical Sciences(AIIMS), Jodhpur",
         "name": "All India Institute of Medical Sciences(AIIMS), Jodhpur",
         "address": "basni Industrial Area, MIA 2nd Phase, Basni, Jodhpur, Rajasthan 342005",
@@ -1088,8 +974,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Sher - i - Kashmir Institute of Medical Sciences",
         "name": "Sher - i - Kashmir Institute of Medical Sciences",
         "address": "SKIMS Main Rd, Soura, Srinagar, 190011",
@@ -1107,8 +991,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Government Medical College (GMC)",
         "name": "Government Medical College (GMC)",
         "address": "Jammu and Kashmir, Bemina, Karan Nagar, Srinagar, 190010",
@@ -1126,8 +1008,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "The King Institute of Preventive Medicine and Research",
         "name": "The King Institute of Preventive Medicine and Research",
         "address": "Guindy Institutional Area, SIDCO Industrial Estate, Guindy, Chennai, Tamil Nadu 600032",
@@ -1145,8 +1025,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Theni Government Medical College",
         "name": "Theni Government Medical College",
         "address": "opp govt theni medical college, k. villakku, Tamil Nadu 625531",
@@ -1164,8 +1042,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Govt. Thiruvarur Medical College",
         "name": "Govt. Thiruvarur Medical College",
         "address": "Collector office Master Plan Complex, Thandalai, Tamil Nadu 610004",
@@ -1183,8 +1059,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Tirunelveli Medical College",
         "name": "Tirunelveli Medical College",
         "address": "3, High Ground Rd, Palayamkottai, Tirunelveli, Tamil Nadu 627011",
@@ -1202,8 +1076,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Coimbatore Medical College",
         "name": "Coimbatore Medical College",
         "address": "1 A, SF No 498, Avinashi Rd, Peelamedu, Civil Aerodrome Post, Coimbatore, Tamil Nadu 641018",
@@ -1221,8 +1093,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Madras Medical College",
         "name": "Madras Medical College",
         "address": "Near Park Town Station, Park Town, Chennai, Tamil Nadu 600003",
@@ -1240,8 +1110,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Gandhi Medical College",
         "name": "Gandhi Medical College",
         "address": "Gandhi Hospital, M.I.G.H colony, Musheerabad, Walker Town, Padmarao Nagar, Secunderabad, Telangana 500003",
@@ -1259,8 +1127,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Osmania Medical College",
         "name": "Osmania Medical College",
         "address": "5-1-876, Turrebaz Khan Rd, Troop Bazaar, Koti, Hyderabad, Telangana 500095",
@@ -1278,8 +1144,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Tripura Medical College",
         "name": "Tripura Medical College",
         "address": "Hapania, Agartala, Tripura 799014",
@@ -1297,8 +1161,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "King George's Medical University",
         "name": "King George's Medical University",
         "address": "Shah Mina Rd, Chowk, Lucknow, Uttar Pradesh 226003",
@@ -1316,8 +1178,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Institute of Medical Sciences BHU",
         "name": "Institute of Medical Sciences BHU",
         "address": "Aurobindo Colony, Banaras Hindu University Campus, Aurobindo Colony, Varanasi, Uttar Pradesh 221005",
@@ -1335,8 +1195,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Jawaharlal Nehru Medical College, AMU",
         "name": "Jawaharlal Nehru Medical College, AMU",
         "address": "Medical Rd, AMU Campus, Aligarh, Uttar Pradesh 202002",
@@ -1354,8 +1212,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Command Hospital (Central Command)",
         "name": "Command Hospital (Central Command)",
         "address": "Command hospital, Neil Lines, Cantonment, Lucknow, Uttar Pradesh 226002",
@@ -1373,8 +1229,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Government Medical College",
         "name": "Government Medical College",
         "address": "Rampur Rd, Rampur, Haldwani, Uttarakhand 263129",
@@ -1392,8 +1246,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "National Institute of Cholera and Enteric Diseases",
         "name": "National Institute of Cholera and Enteric Diseases",
         "address": "P- C.I.T. Scheme XM, Beleghata,, 33, CIT Rd, Subhas Sarobar Park, Phool Bagan, Beleghata, Kolkata, West Bengal 700010",
@@ -1411,8 +1263,6 @@
       "type": "Feature",
       "properties": {
         "featureType": "Sample Collection Center",
-        "contactPerson": "",
-        "level": "",
         "description": "Institute of Post Graduate Medical Education and Research , Kolkata",
         "name": "Institute of Post Graduate Medical Education and Research , Kolkata",
         "address": "244, Acharya Jagadish Chandra Bose Rd, Bhowanipore, Kolkata, West Bengal 700020",
@@ -1425,14 +1275,11 @@
           22.5394793
         ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "Lal Path Labs",
         "name": "Lal Path Labs",
         "address": "Lal Path Labs, Block -E, Sector 18, Rohini, Delhi",
@@ -1440,16 +1287,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [28.73885, 77.13641]
+        "coordinates": [
+          77.13641,
+          28.73885
+        ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "Unipath Specialty Laboratory, Ahmedabad",
         "name": "Unipath Specialty Laboratory, Ahmedabad",
         "address": "Address: 102, 1st Floor, Sanoma Plaza, Sheth Mangald Road, Opp. Parimal Garden, Ellisbridge, Ahmedabad, Gujarat 380006",
@@ -1457,16 +1304,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [23.0191, 72.55566]
+        "coordinates": [
+          72.55566,
+          23.0191
+        ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "Strand Life Sciences, Gurugram",
         "name": "Strand Life Sciences, Gurugram",
         "address": "Strand Life Sciences, A-17, Sector 34, Gurugram",
@@ -1474,16 +1321,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [28.42943, 77.01553]
+        "coordinates": [
+          77.01553,
+          28.42943
+        ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "SRL Diagnostics, Gurugram",
         "name": "SRL Diagnostics, Gurugram",
         "address": "SRL,REFERENCE LAB, GP-26, MARUTI INDUSTRIAL ESTATE, Udyog Vihar, Sector 18, Gurugram, Haryana 122015",
@@ -1491,16 +1338,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [28.4891, 77.06168]
+        "coordinates": [
+          77.06168,
+          28.4891
+        ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "Neuberg Anand Reference Laboratory",
         "name": "Neuberg Anand Reference Laboratory",
         "address": "Aanand Tower, No 54, Bowring Tower, Bowring Hospital Rd, Shivaji Nagar, Bengaluru, Karnataka 560001",
@@ -1508,16 +1355,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          77.60614,
+          12.98146
+        ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "Thyrocare Technologies Ltd",
         "name": "Thyrocare Technologies Ltd",
         "address": "Thyrocare Technologies Limited, D37/1, TTC MIDC, Turbhe, Navi Mumbai, Maharashtra 400703",
@@ -1525,16 +1372,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [19.07425, 72.99975]
+        "coordinates": [
+          72.99975,
+          19.07425
+        ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "Suburban Diagnostics, Andheri (West)",
         "name": "Suburban Diagnostics, Andheri (West)",
         "address": "Suburban Diagnostics (India) Pvt. Ltd., 306, 307/T, 3rd Floor, Sunshine Bld., Andheri (W), Mumbai",
@@ -1542,16 +1389,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [19.13733, 72.82607]
+        "coordinates": [
+          72.82607,
+          19.13733
+        ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "Sir H. N. Reliance Foundation Hospital and Research Centre, Navi Mumbai",
         "name": "Sir H. N. Reliance Foundation Hospital and Research Centre, Navi Mumbai",
         "address": "Sir H.N. Reliance Foundation Hospital and Research Centre, Molecular Medicine, Reliance Life Sciences Pvt. Ltd., R-282, TTC Industrial Area, Rabale, Navi Mumbai",
@@ -1559,16 +1406,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [19.13921, 73.00445]
+        "coordinates": [
+          73.00445,
+          19.13921
+        ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "SRL Diagnostics, Mumbai",
         "name": "SRL Diagnostics, Mumbai",
         "address": "SRL Limited, Prime Square Building, Plot No 1, Gaiwadi Industrial Estate, SV Road, Goregaon West, Mumbai",
@@ -1576,16 +1423,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [19.17139, 72.84561]
+        "coordinates": [
+          72.84561,
+          19.17139
+        ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "Department of Clinical Virology, CMC, Vellore",
         "name": "Department of Clinical Virology, CMC, Vellore",
         "address": "Dept. of Clinical Virology, CMC, Vellore",
@@ -1593,16 +1440,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [12.9246, 79.13481]
+        "coordinates": [
+          79.13481,
+          12.9246
+        ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "Apollo Hospital, Chennai",
         "name": "Apollo Hospital, Chennai",
         "address": "'Sunny Side', East Block, 3rd Floor, 8/17, Shafee Mohamed Road, Chennai, Tamil Nadu 600006",
@@ -1610,16 +1457,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [13.06108, 80.25335]
+        "coordinates": [
+          80.25335,
+          13.06108
+        ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "Dr. Dangs Lab, New Delhi",
         "name": "Dr. Dangs Lab, New Delhi",
         "address": "Aurobindo Market, C2/1, S.D.A. Aurobindo Marg Next to, New Delhi, Delhi 110016",
@@ -1627,16 +1474,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [28.55013, 77.20345]
+        "coordinates": [
+          77.20345,
+          28.55013
+        ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "Indraprastha Apollo Hospital",
         "name": "Indraprastha Apollo Hospital",
         "address": "Indraprastha Apollo Hospitals, Mathura Rd, Sarita Vihar, New Delhi, Delhi 110076",
@@ -1644,16 +1491,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [28.54059, 77.28342]
+        "coordinates": [
+          77.28342,
+          28.54059
+        ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "Supratech Micropath Laboratory, Ahmedabad",
         "name": "Supratech Micropath Laboratory, Ahmedabad",
         "address": "Neuberg Supratech, Ground Floor, Kedar Builiding, Opp. Krupa petrol Pump Parimal garden, Gujarat 380006",
@@ -1661,16 +1508,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [23.01982, 72.55928]
+        "coordinates": [
+          72.55928,
+          23.01982
+        ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "Metropolis Healthcare Ltd",
         "name": "Metropolis Healthcare Ltd",
         "address": "4th Floor, Commerical Building 1-A, Kohinoor City Mall, Off LBS Marg, Vidyavihar (West), Mumbai, Maharashtra 400070",
@@ -1678,16 +1525,16 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [19.08201, 72.88572]
+        "coordinates": [
+          72.88572,
+          19.08201
+        ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
         "featureType": "Private Lab",
-        "contactPerson": "",
-        "level": "",
         "description": "Apollo Hospital, Hyderabad",
         "name": "Apollo Hospital, Hyderabad",
         "address": "Rd Number 72, opp. Bharatiya Vidya Bhavan School, Jubilee Hills, Hyderabad, Telangana 500033",
@@ -1695,7 +1542,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [17.41487, 78.41234]
+        "coordinates": [
+          78.41234,
+          17.41487
+        ]
       }
     }
   ]

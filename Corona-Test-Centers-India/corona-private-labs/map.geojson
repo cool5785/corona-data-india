@@ -44,11 +44,11 @@
       "properties": {
         "featureType": "Private Labs",
         "description": "strand life sciences",
-        "name": "strand life sciences",
+        "name": "Strand life sciences",
         "opening_hours": "Monday: 7:30 AM – 7:30 PM, Tuesday: 7:30 AM – 7:30 PM, Wednesday: 7:30 AM – 7:30 PM, Thursday: 7:30 AM – 7:30 PM, Friday: 7:30 AM – 7:30 PM, Saturday: 7:30 AM – 7:30 PM, Sunday: 7:30 AM – 7:30 PM",
-        "address": "Old Railway Rd, Pratap Nagar, Sector 12, Gurugram, Haryana 122006, India",
-        "contact": "097188 31108",
-        "website": ""
+        "address": "A-17, Info Technology Park, Sector 34, Gurugram, Haryana 122001",
+        "contact": "1800-180-5227, 1800-102-5227",
+        "website": "https://strandls.com/"
       },
       "geometry": {
         "type": "Point",

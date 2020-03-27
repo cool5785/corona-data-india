@@ -66,8 +66,8 @@
         "name": "SRL Diagnostics",
         "opening_hours": "Monday: 7:30 AM – 7:30 PM, Tuesday: 7:30 AM – 7:30 PM, Wednesday: 7:30 AM – 7:30 PM, Thursday: 7:30 AM – 7:30 PM, Friday: 7:30 AM – 7:30 PM, Saturday: 7:30 AM – 7:30 PM, Sunday: 7:30 AM – 2:30 PM",
         "address": "SRL,REFERENCE LAB, GP-26, MARUTI INDUSTRIAL ESTATE, Udyog Vihar, Sector 18, Gurugram, Haryana 122015, India",
-        "contact": "0124 441 2121",
-        "website": "https://www.srlworld.com/?utm_source=gbgurgaonsrludyogvihar&utm_medium=product&utm_campaign=offer"
+        "contact": "1800 22 2000, 012-4441-2121",
+        "website": "https://www.srlworld.com/"
       },
       "geometry": {
         "type": "Point",
@@ -159,9 +159,9 @@
         "featureType": "Private Labs",
         "description": "SRL Diagnostics",
         "name": "SRL Diagnostics",
-        "opening_hours": "Monday: 7:30 AM – 8:00 PM, Tuesday: 7:30 AM – 8:00 PM, Wednesday: 7:30 AM – 8:00 PM, Thursday: 7:30 AM – 8:00 PM, Friday: 7:30 AM – 8:00 PM, Saturday: 7:30 AM – 8:00 PM, Sunday: 7:30 AM – 12:00 PM",
-        "address": "27, B-Wing, Ground Floor, Kakad House, Near Bombay Hospital, Opposite Liberty Cinema, New Marine Lines, Marine Lines, Mumbai, Maharashtra 400020, India",
-        "contact": "022 6635 1898",
+        "opening_hours": "Monday: 7:30 AM – 7:30 PM, Tuesday: 7:30 AM – 7:30 PM, Wednesday: 7:30 AM – 7:30 PM, Thursday: 7:30 AM – 7:30 PM, Friday: 7:30 AM – 7:30 PM, Saturday: 7:30 AM – 7:30 PM, Sunday: 7:30 AM – 12:00 PM",
+        "address": "Plot No 1, Prime Square building, Gaiwadi Industrial, estate, Next to Patel Petrol Pump, Opposite Mahesh Nagar, S.V. Road, Goregaon West, Mumbai, Maharashtra 400062",
+        "contact": "1800 22 2000, 022-4412-1212",
         "website": "http://www.srlworld.com/"
       },
       "geometry": {
@@ -275,7 +275,7 @@
         "name": "Metropolis Healthcare Ltd",
         "opening_hours": "Monday: 8:00 AM – 8:00 PM, Tuesday: 8:00 AM – 8:00 PM, Wednesday: 8:00 AM – 8:00 PM, Thursday: 8:00 AM – 8:00 PM, Friday: 8:00 AM – 8:00 PM, Saturday: 8:00 AM – 8:00 PM, Sunday: Closed",
         "address": "Shop No 19 Mandapeshwar Kripa Buliding, Infront Of Dena Bank Beside Bagwati Hospital Ic Colony,Borivali West, Dattapada, Borivali East, Mumbai, Maharashtra 400301, India",
-        "contact": "022 3399 3939",
+        "contact": "8422 801 801,022 3399 3939",
         "website": "http://www.metropolisindia.com/"
       },
       "geometry": {
